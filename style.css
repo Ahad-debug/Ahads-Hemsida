@@ -33,6 +33,12 @@ ul li {
   justify-content: space-between;
 }
 
+  #img {
+   display: flex;
+   justify-content: space-between;
+   flex-direction: row; 
+ }
+
 article {
   margin: 16px;
   font-family: "Roboto Slab", serif;
